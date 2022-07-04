@@ -1,0 +1,26 @@
+{
+  "id": 777894,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": [22,33,11,55],
+      "name": "dogTagOne"
+    },
+    {
+      "id": [22,33,11,55],
+      "name": "dogTagOne213"
+    },
+    {
+      "id": [22,33,11,55],
+      "name": "dogTagOne123"
+    }
+  ],
+  "status": "available"
+}
